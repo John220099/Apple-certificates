@@ -12,7 +12,7 @@ Info and status
 AIA BHD. =
 
 
-ANBANG INSURANCE LTD =
+ANBANG INSURANCE LTD = 🔴
 
 
 ARADA DEVELOPMENTS LLC =
@@ -24,7 +24,7 @@ AVIATION INFORMATION AND TELECOMMUNICATIONS JSC =
 Aisino Co. =
 
 
-Aldo Group Inc =
+Aldo Group Inc = 🔴
 
 
 Anhui Jiyuan Software Co.,Ltd 2 = 
@@ -84,10 +84,10 @@ China Telecommunications Corporation =
 EngChi_Police_Telephone_Department =
 
 
-FPT Software Company Limite =
+FPT Software Company Limite = 🔴
 
 
-Gac Car Transport =
+Gac Car Transport = 🔴
 
 
 Guangzhou second bus Co., Ltd =
@@ -111,10 +111,13 @@ Hunan Airport Management Group Co.Ltd =
 LimitedDL =
 
 
-Manulife-Sinochem Life Insurance Co., Ltd =
+Manulife-Sinochem Life 
 
 
-Mylan Inc.zip
+Insurance Co., Ltd =
+
+
+Mylan Inc = 🔴
 
 
 OLD MUTUAL LIFE ASSURANCE COMPANY (MALAWI) LIMITED =
@@ -156,7 +159,7 @@ Shen Zhen Shi YiHaoHuLian TECHNOLOGY LTD. =
 Social_Governance_Coordination_Center_of_Haicang_District,Xiamen =
 
 
-Sunshine Insurance Group Co., Ltd =
+Sunshine Insurance Group Co., Ltd = 🔴
 
 
 TVMining Media Technology Co., Ltd =
