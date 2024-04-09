@@ -8,7 +8,7 @@ Info and status
 🟢 = active 
 
 
-* BOE TECHNOLOGY GROUP CO., LTD = ?
+* BOE TECHNOLOGY GROUP CO., LTD = 🔴
 * Sunshine Insurance Group Co., Ltd = ?
 * Shanghai Construction No.2 (Group) Co.,Ltd = ?
 * Shanghai Foreign Aviation Service Co., Ltd = ?
@@ -17,7 +17,7 @@ Info and status
 * CITIC-Prudential Life Insurance Company Limited = ?
 * China Everbright Limited = ?
 * ShaanXi_Highway_Traffic_Technology_Development_And_Consulting_Co = ?
-* Mylan Inc = ?
+* Mylan Inc = 🔴
 * Hangzhou Eastelsoft co.,Ltd = ?
 * China Telecommunications Corporation = ?
 * Shaanxi heavy duty automobile co.,ltd = ?
@@ -37,7 +37,7 @@ Info and status
 * VIETNAM_POSTS_AND_TELECOMMUNICATIONS_GROUP_HO_CHI_MINH_CITY_TE = ?
 * BEIJING TIANYUAN NEW ENERGY TECHNOLOGY CO.,LTD = ?
 * BANK NEGARA INDONESIA (PERSERO), PT TBK = ?
-* Zhuhaishi_ShijiXintong_Network_Technology_Co._Ltd = ?
+* Zhuhaishi_ShijiXintong_Network_Technology_Co._Ltd = 🔴
 * Tianwen Digital Media Technology (Hunan) Co., Ltd 2 = ?
 * SANY Group Co.,Ltd = ?
 * Manulife-Sinochem Life Insurance Co., Ltd = ?
