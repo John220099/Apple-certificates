@@ -11,79 +11,79 @@ Info and status
 Sunshine_Insurance_Group_Co = 🟢
 
 
-AIA BHD. =
+AIA BHD. = 🔴
 
 
 ANBANG INSURANCE LTD = 🔴
 
 
-ARADA DEVELOPMENTS LLC =
+ARADA DEVELOPMENTS LLC = 🔴
 
 
-AVIATION INFORMATION AND TELECOMMUNICATIONS JSC =
+AVIATION INFORMATION AND TELECOMMUNICATIONS JSC = 🔴
 
 
-Aisino Co. =
+Aisino Co. = 🔴
 
 
 Aldo Group Inc = 🔴
 
 
-Anhui Jiyuan Software Co.,Ltd 2 = 
+Anhui Jiyuan Software Co.,Ltd 2 = 🔴
 
 
-Anhui Jiyuan Software Co.,Ltd = 
+Anhui Jiyuan Software Co.,Ltd = 🔴
 
 
-Asia Jiyuan Co.,Ltd =
+Asia Jiyuan Co.,Ltd = 🔴
 
 
-BANK NEGARA INDONESIA (PERSERO), PT TBK =
+BANK NEGARA INDONESIA (PERSERO), PT TBK = 🔴
 
 
-BEIJING TIANYUAN NEW ENERGY TECHNOLOGY CO.,LTD =
+BEIJING TIANYUAN NEW ENERGY TECHNOLOGY CO.,LTD = 🔴
 
 
-BOE TECHNOLOGY GROUP CO., LTD =
+BOE TECHNOLOGY GROUP CO., LTD = 🔴
 
 
-Bank of Chongqing Co.,Ltd = 
+Bank of Chongqing Co.,Ltd = 🔴
 
 
-Bank of Jiangsu Co. =
+Bank of Jiangsu Co. = 🔴
 
 
-Bank_Of_Zeon_International =
+Bank_Of_Zeon_International = 🔴
 
 
-Beijing Financial Assets Co. =
+Beijing Financial Assets Co. = 🔴
 
 
-CITIC-Prudential Life Insurance Company Limited =
+CITIC-Prudential Life Insurance Company Limited = 🔴
 
 
-Capinfo Company Limited =
+Capinfo Company Limited = 🔴
 
 
-China Everbright Limited =
+China Everbright Limited = 🔴
 
 
-China Huaneng Group =
+China Huaneng Group = 🔴
 
 
-China Mobile Communications Corporation =
+China Mobile Communications Corporation = 🔴
 
 
-China Mobile Group Jiangsu Company Limited =
+China Mobile Group Jiangsu Company Limited = 🔴
 
 
-China Mobile Suzhou Software Technology Co.,Ltd =
+China Mobile Suzhou Software Technology Co.,Ltd = 🔴
 
 
-China Telecommunications Corporation =
+China Telecommunications Corporation = 🔴
 
 
-EngChi_Police_Telephone_Department =
+EngChi_Police_Telephone_Department = 🔴
 
 
 FPT Software Company Limite = 🔴
@@ -92,100 +92,100 @@ FPT Software Company Limite = 🔴
 Gac Car Transport = 🔴
 
 
-Guangzhou second bus Co., Ltd =
+Guangzhou second bus Co., Ltd = 🔴
 
 
-Guo Mei Zai Xian E-commerce Co. =
+Guo Mei Zai Xian E-commerce Co. = 🔴
 
 
-Hangzhou Eastelsoft co.,Ltd =
+Hangzhou Eastelsoft co.,Ltd = 🔴
 
 
-Henan_Provincial_Communications_Planning_Survey__Design_Institute_Co.Ltd. =
+Henan_Provincial_Communications_Planning_Survey__Design_Institute_Co.Ltd. = 🔴
 
 
-Henan_Provincial_Communications_Planning_Survey__Design_Institute_Co.Ltd =
+Henan_Provincial_Communications_Planning_Survey__Design_Institute_Co.Ltd = 🔴
 
 
-Hunan Airport Management Group Co.Ltd =
+Hunan Airport Management Group Co.Ltd = 🔴
 
 
-LimitedDL =
+LimitedDL = 🔴
 
 
-Manulife-Sinochem Life 
+Manulife-Sinochem Life = 🔴
 
 
-Insurance Co., Ltd =
+Insurance Co., Ltd = 🔴
 
 
 Mylan Inc = 🔴
 
 
-OLD MUTUAL LIFE ASSURANCE COMPANY (MALAWI) LIMITED =
+OLD MUTUAL LIFE ASSURANCE COMPANY (MALAWI) LIMITED = 🔴
 
 
-RSPCC_Communication_Telephone_Company =
+RSPCC_Communication_Telephone_Company = 🔴
 
 
-Rizhao Sunday Power Generation Co., Ltd =
+Rizhao Sunday Power Generation Co., Ltd = 🔴
 
 
-SANY Group Co.,Ltd =
+SANY Group Co.,Ltd = 🔴
 
 
-SHANGHAI RURAL COMMERCIAL BANK CO., LTD =
+SHANGHAI RURAL COMMERCIAL BANK CO., LTD = 🔴
 
 
-SHISEIDO COMPANY, LIMITED =
+SHISEIDO COMPANY, LIMITED = 🔴
 
 
-STOCK REALTY & AUCTION COMPANY =
+STOCK REALTY & AUCTION COMPANY = 🔴
 
 
-ShaanXi_Highway_Traffic_Technology_Development_And_Consulting_Co =
+ShaanXi_Highway_Traffic_Technology_Development_And_Consulting_Co = 🔴
 
 
-Shaanxi heavy duty automobile co.,ltd =
+Shaanxi heavy duty automobile co.,ltd = 🔴
 
 
-Shanghai Construction No.2 (Group) Co.,Ltd =
+Shanghai Construction No.2 (Group) Co.,Ltd = 🔴
 
 
-Shanghai Foreign Aviation Service Co., Ltd =
+Shanghai Foreign Aviation Service Co., Ltd = 🔴
 
 
-Shen Zhen Shi YiHaoHuLian TECHNOLOGY LTD. =
+Shen Zhen Shi YiHaoHuLian TECHNOLOGY LTD. = 🔴
 
 
-Social_Governance_Coordination_Center_of_Haicang_District,Xiamen =
+Social_Governance_Coordination_Center_of_Haicang_District,Xiamen = 🔴
 
 
 Sunshine Insurance Group Co., Ltd = 🔴
 
 
-TVMining Media Technology Co., Ltd =
+TVMining Media Technology Co., Ltd = 🔴
 
 
-Tianwen Digital Media Technology (Hunan) Co., Ltd 2 =
+Tianwen Digital Media Technology (Hunan) Co., Ltd 2 = 🔴
 
 
-Tianwen Digital Media Technology (Hunan) Co., Ltd =
+Tianwen Digital Media Technology (Hunan) Co., Ltd = 🔴
 
 
-University of China, Ltd =
+University of China, Ltd = 🔴
 
 
-VIETNAM_POSTS_AND_TELECOMMUNICATIONS_GROUP_HO_CHI_MINH_CITY_TE =
+VIETNAM_POSTS_AND_TELECOMMUNICATIONS_GROUP_HO_CHI_MINH_CITY_TE = 🔴
 
 
-XCMG Foundation Construction Machinery Co., Ltd =
+XCMG Foundation Construction Machinery Co., Ltd = 🔴
 
 
-ZDK (Tianjin) Cyber Information Security Co.,Ltd =
+ZDK (Tianjin) Cyber Information Security Co.,Ltd = 🔴
 
 
-Zhuhaishi ShijiXintong Network Technology Co., Ltd =
+Zhuhaishi ShijiXintong Network Technology Co., Ltd = 🔴
 
 
-Zhuhaishi_ShijiXintong_Network_Technology_Co._Ltd =
+Zhuhaishi_ShijiXintong_Network_Technology_Co._Ltd = 🔴
