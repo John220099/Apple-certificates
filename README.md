@@ -1,5 +1,3 @@
-certificate info will come here soon
-
 Info and status
 
 🔴 = revoked
