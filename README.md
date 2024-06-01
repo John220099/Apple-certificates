@@ -6,7 +6,7 @@ Info and status
 🟢 = active 
 
 
-Sunshine_Insurance_Group_Co = 🟢
+Sunshine_Insurance_Group_Co = 🔴
 
 
 AIA BHD. = 🔴
