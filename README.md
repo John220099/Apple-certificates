@@ -5,6 +5,10 @@ Info and status
 
 🟢 = active 
 
+----
+
+
+Sun.Life.Everbright.Life.Insurance.Co = 🟢
 
 Sunshine_Insurance_Group_Co = 🔴
 
