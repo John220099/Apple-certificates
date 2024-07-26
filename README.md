@@ -8,6 +8,8 @@ Info and status
 ----
 
 
+China_CITIC_Bank_Corporation_Limited = 🟢
+
 Sun.Life.Everbright.Life.Insurance.Co = 🔴
 
 Sunshine_Insurance_Group_Co = 🔴
