@@ -8,7 +8,7 @@ Info and status
 ----
 
 
-Sunshine Insurance Group Co., =  🟢
+Sunshine Insurance Group Co., = 🔴
 
 China_CITIC_Bank_Corporation_Limited = 🟢
 
