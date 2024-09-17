@@ -8,6 +8,9 @@ Info and status
 ----
 
 
+
+China Continent Property Casualty Insurance Company Ltd = 🟢
+
 Sunshine Insurance Group Co., = 🔴
 
 China_CITIC_Bank_Corporation_Limited = 🟢
