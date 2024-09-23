@@ -9,7 +9,7 @@ Info and status
 
 
 
-China Continent Property Casualty Insurance Company Ltd = 🟢
+China Continent Property Casualty Insurance Company Ltd = 🔴
 
 Sunshine Insurance Group Co., = 🔴
 
